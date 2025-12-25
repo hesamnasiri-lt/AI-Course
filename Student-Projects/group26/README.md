@@ -37,16 +37,7 @@ All AI inference runs **inside the browser**, not on the server.
 
 ---
 
-## 3. What This Project Does NOT Use
-- ❌ Python
-- ❌ TensorFlow (Python)
-- ❌ PyTorch
-- ❌ CUDA / cuDNN
-- ❌ GPU
-
----
-
-## 4. Install Node.js
+## 3. Install Node.js
 1. Go to: https://nodejs.org
 2. Download and install the **LTS version**
 3. Verify installation:
@@ -56,7 +47,7 @@ bash
    npm -v
 ---
 
-## 5. Extract the Project
+## 4. Extract the Project
 
 1. Right-click `face-emotion-detection-master.zip`
 2. Select **Extract All**
@@ -68,7 +59,7 @@ bash
 
 ---
 
-## 6. Open Terminal in Project Folder
+## 5. Open Terminal in Project Folder
 
 ### Windows
 
@@ -82,7 +73,7 @@ cd face-emotion-detection-master
 
 ---
 
-## 7. Install Project Dependencies
+## 6. Install Project Dependencies
 
 Run:
 
@@ -98,7 +89,7 @@ This installs:
 
 ---
 
-## 8. How to Run the Application
+## 7. How to Run the Application
 
 ### Start the Server
 
@@ -126,7 +117,7 @@ http://localhost:3000
 
 ---
 
-## 9. Stopping the Application
+## 8. Stopping the Application
 
 To stop the server:
 
@@ -135,7 +126,7 @@ Ctrl + C
 
 ---
 
-## 10. Common Issues & Fixes
+## 9. Common Issues & Fixes
 
 ### Port Already in Use
 
